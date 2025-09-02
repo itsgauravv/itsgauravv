@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! I'm Gaurav Jani, a dedicated Front End Developer with over 1.5+ years of experience. My focus is on creating immersive and user-centric web experiences. Let's delve into the world of coding together! 👨‍💻✨
+Hello there! I'm Gaurav Jani, a dedicated Front End Developer with over 2 years of experience. My focus is on creating immersive and user-centric web experiences. Let's delve into the world of coding together! 👨‍💻✨
 
 
 ## 🌐 Socials:
